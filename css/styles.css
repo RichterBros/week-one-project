@@ -1,0 +1,18 @@
+img {
+  width: 500px;
+  height: auto;
+  border-radius: 1%;
+}
+
+#space{
+  letter-spacing: 10px;
+}
+
+#blue{
+  text-align: right;
+  background-color: blue;
+}
+
+#floatLeft {
+  float: left;
+}
