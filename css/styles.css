@@ -1,5 +1,5 @@
 img {
-  width: 500px;
+  width: 400px;
   height: auto;
   border-radius: 1%;
 }
@@ -9,7 +9,7 @@ img {
 }
 
 #blue{
-  text-align: right;
+  
   background-color: blue;
 }
 
