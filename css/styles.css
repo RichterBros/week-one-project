@@ -1,5 +1,5 @@
 img {
-  width: 400px;
+  width: 500px;
   height: auto;
   border-radius: 1%;
 }
@@ -16,3 +16,18 @@ img {
 #floatLeft {
   float: left;
 }
+
+#topPad {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.jumbotron p{
+
+  font-weight: 300;
+  font-size: 20px;
+  
+  
+
+ 
+  }
