@@ -12,6 +12,7 @@ _{Information on Erich Richter's skills, interests and ambitions}_
 
 * _open in a browser of your choice_
 
+[Link to Portfolio](https://richterbros.github.io/week-one-project/)
 
 ## Known Bugs
 
